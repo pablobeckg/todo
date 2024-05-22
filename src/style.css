@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cornsilk;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.content {
+  width: fit-content;
+  margin: 50px  auto;
+  background-color: rosybrown;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input {
+  background-color: darkcyan;
+  border: none;
+  height: 30px;
+  font-size: 20px;
+  color: white;
+}
+
+
+
+form > div > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+button[type="submit"] {
+  border: none;
+  background-color: aqua;
+  width: 100px;
+  height: 30px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+form {
+  width: fit-content;
+}
