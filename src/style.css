@@ -30,7 +30,9 @@ input {
   color: white;
 }
 
-
+button {
+  cursor: pointer;
+}
 
 form > div > div {
   display: flex;
@@ -51,4 +53,8 @@ button[type="submit"] {
 
 form {
   width: fit-content;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
 }
