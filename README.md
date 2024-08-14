@@ -1,5 +1,7 @@
 # Todo Pablo
 
+<img width="1005" alt="ToDo" src="https://github.com/user-attachments/assets/378d8c44-f597-409e-83a8-e6079d8c7205">
+
 Welcome to **Todo List**, a sleek and user-friendly web application for managing your daily tasks and to-do lists. This project is designed to help you stay organized and productive with a simple and intuitive interface.
 
 ## Table of Contents
